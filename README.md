@@ -8,7 +8,7 @@ Currently open to on-site and remote software engineering roles.
 ## Tech Stack
 
 **Languages:** JavaScript, TypeScript, Python, Go  
-**Frontend:** React, Material UI
+**Frontend:** React, Material UI  
 **Backend:** Node.js, Express, Go (Fiber), Spring Boot  
 **Database:** PostgreSQL, Redis  
 **Infrastructure:** Docker, GitHub Actions  
@@ -20,11 +20,11 @@ Currently open to on-site and remote software engineering roles.
 
 **[Cirrus](https://github.com/toryjarvis/cirrus):** Link management platform with click analytics, workspace organization, and a Redis-buffered redirect pipeline. Built with Go, PostgreSQL, and React.
 
-## On The Horizon
+## On The Horizon (Future Planned Projects)
 
+- **datakit:** Lightweight Typescript toolkit for common business and data analytics needs.
 - **Aegis:** Centralized auth platform with OAuth 2.0, SSO, and API key management. Kotlin, Spring Boot, gRPC.
 - **fol.io:** Personal worldbuilding wiki with relationship mapping and structured lore management. SvelteKit, Rust, PostgreSQL.
-- **Vybe:** Music ownership and context intelligence platform. React, Go, HLS streaming.
 
 ## Currently
 
