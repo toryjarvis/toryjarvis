@@ -10,8 +10,8 @@ Open to on-site and remote software engineering roles.
 
 ## What I Work With
 
-**Languages:** JavaScript, TypeScript, Python, Go
-**Frontend:** React, Material UI, Vite, Tailwind, shadcn/ui
+**Languages:** JavaScript, TypeScript, Python, Go  
+**Frontend:** React, Material UI, Vite, Tailwind, shadcn/ui  
 **Backend:** Node.js, Express, Go (Fiber), JWT  
 **Database:** PostgreSQL, Redis  
 **Infrastructure:** Docker, GitHub Actions
